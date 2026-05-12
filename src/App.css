@@ -79,7 +79,7 @@
 
 .restart-button:hover {
 
-  transform: scale(1.05); /* Aumenta levemente o botão */
+  transform: scale(1.05);
 }
 
 .restart-button:active {
